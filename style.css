@@ -507,7 +507,12 @@ button {
 
 .form-control {
     border-color: rgba(0, 0, 0, .1);
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 20px;
     box-shadow: none;
+    padding-bottom: 20px;
+   
+   
 }
 
 .scrollToTop {
@@ -835,7 +840,7 @@ h4 {
     .bloc-tile-3.full-width-bloc .container,
     .bloc-tile-4.full-width-bloc .container {
         padding-left: 0;
-        padding-right: 0;
+        padding-right:0;
     }
 }
 
