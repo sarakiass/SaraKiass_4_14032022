@@ -144,7 +144,6 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     border-radius: 10px 10px 10px 10px;
-    margin-left: 20px;
     box-shadow: none;
     padding-bottom: 20px;
    
@@ -394,7 +393,7 @@ h4 {
 }
 
 .black-background {
-    background-color:red;
+    background-color:rgba(165, 147, 99, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
